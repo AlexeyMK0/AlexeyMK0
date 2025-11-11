@@ -13,3 +13,48 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FFB500.svg?style=for-the-badge)
+![Logisim](https://img.shields.io/badge/Logisim-2E8B57.svg?style=for-the-badge)
+
+## Мои проекты
+
+<details>
+<summary>💰 Money Counter <span style="color:green">Сейчас в работе</span></summary>
+
+**Описание:** Проект для подсчета финансов.  
+
+[![Open Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/AlexeyMK0/money-counter)
+
+</details>
+
+<details>
+<summary>🌍 Поиск путей между городами через YANDEX API</summary>
+
+<span style="color:blue">🎓 Учебный проект</span>
+
+**Описание:** Программа для поиска путей между городами на основе Yandex API.  
+
+[![City Path Finder](https://img.shields.io/badge/🗺️-City%20Path%20Finder-brightgreen?style=for-the-badge)](https://github.com/ТВОЙ_НИК/city-path-finder)
+
+</details>
+
+<details>
+<summary>📝 Парсер аргументов командной строки</summary>
+
+<span style="color:blue">🎓 Учебный проект</span>
+
+**Описание:** Программа для разбора и обработки аргументов командной строки.  
+
+[![Command Line Parser](https://img.shields.io/badge/💻-Command%20Line%20Parser-blue?style=for-the-badge)](https://github.com/AlexeyMK0/ArgParser)
+
+</details>
+
+<details>
+<summary>🧩 STL UnrolledLinkedList</summary>
+
+<span style="color:blue">🎓 Учебный проект</span>  
+
+**Описание:** Реализация структуры данных STL совместимой структуры данных Unrolled Linked List на языке C++.
+
+[![UnrolledLinkedList](https://img.shields.io/badge/🗃️-UnrolledLinkedList-orange?style=for-the-badge)](https://github.com/ТВОЙ_НИК/unrolledlinkedlist)
+
+</details>
