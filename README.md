@@ -29,7 +29,7 @@
 <details>
 <summary>🌍 Поиск путей между городами через YANDEX API</summary>
 
-<span style="color:blue">🎓 Учебный проект</span>
+🎓 Учебный проект
 
 **Описание:** Программа для поиска путей между городами на основе Yandex API.  
 
@@ -40,7 +40,7 @@
 <details>
 <summary>📝 Парсер аргументов командной строки</summary>
 
-<span style="color:blue">🎓 Учебный проект</span>
+🎓 Учебный проект
 
 **Описание:** Программа для разбора и обработки аргументов командной строки.  
 
@@ -51,10 +51,32 @@
 <details>
 <summary>🧩 STL UnrolledLinkedList</summary>
 
-<span style="color:blue">🎓 Учебный проект</span>  
+🎓 Учебный проект
 
-**Описание:** Реализация структуры данных STL совместимой структуры данных Unrolled Linked List на языке C++.
+**Описание:** Реализация STL совместимой структуры данных Unrolled Linked List на языке C++.
 
 [![UnrolledLinkedList](https://img.shields.io/badge/🗃️-UnrolledLinkedList-orange?style=for-the-badge)](https://github.com/ТВОЙ_НИК/unrolledlinkedlist)
+
+</details>
+
+<details>
+<summary>🖥️ RISC-V Emulator</summary>
+
+🎓 Учебный проект  
+
+**Описание:** Эмулятор процессора RISC-V, реализованный на языке C++ для изучения архитектуры и инструкций.  
+
+[![RISC-V Emulator](https://img.shields.io/badge/💻-RISC--V%20Emulator-lightgrey?style=for-the-badge)](https://github.com/AlexeyMK0/risc-v-emulator)
+
+</details>
+
+<details>
+<summary>🧮 sqrt-logical-circuit</summary>
+
+🎓 Учебный проект  
+
+**Описание:** Логическая схема для вычисления квадратного корня с использованием базовых логических элементов.  
+
+[![sqrt-logical-circuit](https://img.shields.io/badge/🔧-sqrt--logical--circuit-lightgrey?style=for-the-badge)](https://github.com/AlexeyMK0/sqrt-logical-curcuit)
 
 </details>
