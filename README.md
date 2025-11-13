@@ -33,7 +33,7 @@
 
 **Описание:** Программа для поиска путей между городами на основе Yandex API.  
 
-[![City Path Finder](https://img.shields.io/badge/🗺️-City%20Path%20Finder-brightgreen?style=for-the-badge)](https://github.com/ТВОЙ_НИК/city-path-finder)
+[![City Path Finder](https://img.shields.io/badge/🗺️-City%20Path%20Finder-brightgreen?style=for-the-badge)](https://github.com/AlexeyMK0/PathFinder)
 
 </details>
 
@@ -55,7 +55,7 @@
 
 **Описание:** Реализация STL совместимой структуры данных Unrolled Linked List на языке C++.
 
-[![UnrolledLinkedList](https://img.shields.io/badge/🗃️-UnrolledLinkedList-orange?style=for-the-badge)](https://github.com/ТВОЙ_НИК/unrolledlinkedlist)
+[![UnrolledLinkedList](https://img.shields.io/badge/🗃️-UnrolledLinkedList-orange?style=for-the-badge)](https://github.com/AlexeyMK0/UnrolledLinkedList)
 
 </details>
 
