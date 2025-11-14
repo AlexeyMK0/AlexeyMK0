@@ -14,6 +14,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FFB500.svg?style=for-the-badge)
 ![Logisim](https://img.shields.io/badge/Logisim-2E8B57.svg?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-005C55?style=for-the-badge&logo=apachemaven&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-6F8EB5?style=for-the-badge&logo=cmake&logoColor=white)
 
 ## Мои проекты
 
