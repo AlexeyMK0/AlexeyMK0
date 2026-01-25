@@ -20,15 +20,6 @@
 ## Мои проекты
 
 <details>
-<summary>💰 Money Counter <--- <em><u>Сейчас в работе</u></em></summary>
-
-**Описание:** Проект для подсчета финансов.  
-
-[![Open Repo](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/AlexeyMK0/money-counter)
-
-</details>
-
-<details>
 <summary>🌍 Поиск путей между городами через YANDEX API</summary>
 
 🎓 Учебный проект
