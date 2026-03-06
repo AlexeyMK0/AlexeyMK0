@@ -19,6 +19,20 @@
 
 ## Мои проекты
 
+
+<details>
+<summary>🕒 Timescale API</summary>
+
+🚧 В разработке  
+
+**Описание:** WebAPI приложение для обработки временных данных. Позволяет загружать CSV-файлы с результатами, сохранять их в PostgreSQL и выполнять аналитические запросы к данным.
+
+**Технологии:** C#, .NET 9, ASP.NET Core, Entity Framework Core, PostgreSQL, Swagger (OpenAPI)
+
+[![Timescale API](https://img.shields.io/badge/🕒-Timescale%20API-purple?style=for-the-badge)](https://github.com/ТВОЙ_НИК/timescale-api)
+
+</details>
+
 <details>
 <summary>🌍 Поиск путей между городами через YANDEX API</summary>
 
