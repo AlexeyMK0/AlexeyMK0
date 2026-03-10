@@ -29,7 +29,27 @@
 
 **Технологии:** C#, .NET 9, ASP.NET Core, Entity Framework Core, PostgreSQL, Swagger (OpenAPI)
 
-[![Timescale API](https://img.shields.io/badge/🕒-Timescale%20API-purple?style=for-the-badge)](https://github.com/ТВОЙ_НИК/timescale-api)
+[![Timescale API](https://img.shields.io/badge/🕒-Timescale%20API-purple?style=for-the-badge)](https://github.com/AlexeyMK0/timescale-api)
+
+</details>
+
+<details>
+<summary>🏗️ C# OOP & Design Patterns (Курс лабораторных работ)</summary>
+
+🎓 **Учебный проект (Университет ИТМО)**
+
+Комплекс из 5 масштабных проектов, сфокусированных на применении принципов SOLID, паттернов проектирования GoF и чистой архитектуры на стеке .NET.
+
+**Состав курса:**
+1.  **Railway Simulator:** Моделирование движения поездов на магнитной подушке. Фокус на инкапсуляции, иммутабельности данных и физических расчетах без использования исключений в бизнес-логике.
+2.  **Messaging System:** Система распределения уведомлений. Применение паттернов: *Composite* (группы адресатов), *Proxy/Decorator* (логирование и фильтрация), *Bridge* (форматтеры и архиваторы).
+3.  **Fantasy Battle Simulator:** Движок для пошаговых сражений. Фокус на порождающих паттернах (*Abstract Factory, Builder*) для конфигурации существ и модификаторах способностей.
+4.  **CLI File System Manager:** Консольный менеджер для работы с ФС. Реализация паттерна *Command*, ленивая загрузка дерева директорий, соблюдение OCP при расширении команд и работа с абстрактными хранилищами.
+5.  **ATM System (Hexagonal Architecture):** Система банкомата с использованием гексагональной (onion) архитектуры. ASP.NET Core контроллеры, Dependency Injection (MSDI) и полное разделение бизнес-логики от инфраструктуры.
+
+**Технологии:** C#, .NET 8/9, xUnit, NSubstitute (Mocking), ASP.NET Core, SOLID, GoF Patterns.
+
+[![OOP Labs](https://img.shields.io/badge/🚀-OOP%20Labs%20Project-blueviolet?style=for-the-badge)](https://github.com/AlexeyMK0/labs-oop)
 
 </details>
 
